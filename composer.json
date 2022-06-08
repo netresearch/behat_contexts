@@ -1,7 +1,7 @@
 {
-    "name": "soyuka/contexts",
+    "name": "netresearch/contexts",
     "description": "Behatch contexts",
-    "keywords": ["BDD", "Behat", "Symfony2", "Context"],
+    "keywords": ["BDD", "Behat", "Symfony", "Context"],
     "type": "library",
     "license": "beerware",
 
